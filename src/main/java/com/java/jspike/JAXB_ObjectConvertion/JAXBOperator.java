@@ -7,7 +7,9 @@ import com.java.jspike.JAXB_ObjectConvertion.convertion.Converter;
 import com.java.jspike.JAXB_ObjectConvertion.dataobject.Customer;
 
 /**
- * @author Aravind
+ * The class helps to call convertion operation
+ * @author Aravind 
+ * @date 24-8-2015
  *
  */
 public class JAXBOperator {
